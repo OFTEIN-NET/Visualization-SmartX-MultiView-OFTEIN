@@ -14,11 +14,3 @@ This is an initial version of SmartX MultiView SW focusing on Resource-layer and
 * Visibility Transportation using Kafka and Zookeeper Open-source Frameworks
 * Visibility Storage using MongoDB, Elasticsearch and InfluxDB DataStores
 * Visibility Visualization using p+vTopological Approach
-
-
-Checkout out our [website](http://opennetworking.kr/projects/k-one-collaboration-project/wiki) for further Information about K-ONE Project
-
-
-## Acknowledgement
-This work is supported by Institute for Information & communications Technology Promotion(IITP) grant funded by the Korea government (MSIP)
-(Global SDN/NFV OpenSource Software Module/Function Development)
