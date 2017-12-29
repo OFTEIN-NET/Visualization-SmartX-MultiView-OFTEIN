@@ -8,7 +8,7 @@ var http = require("http");
 var app = express();
 //var app = module.exports = express.createServer();
 var client = require('socket.io').listen(8080).sockets;
-var host = "103.22.221.56";
+var host = "vc.manage.overcloud";
 
 app.configure(function(){
   app.set('views', __dirname + '/views');
